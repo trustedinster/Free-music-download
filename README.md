@@ -17,7 +17,7 @@
 ### 2.  kuwo.cn
 ### 3.  kugou.cn
 ### 4.  music.163.com
-### 5.  Microsoft Windows10
+### 5.  Microsoft Windows10 21H2
 ### 6.  Microsoft Edge
 ### 7.  DevTools issue
 ### 8.  所有在评论区给作者提供音乐建议的人
