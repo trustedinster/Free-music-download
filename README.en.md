@@ -1,36 +1,27 @@
-# 免费音乐下载
+# Free music downloads
 
-#### Description
-Music免费下载（该音乐资源非正版，仅供学习）
+## Introduction
+### Music Free download
 
-#### Software Architecture
-Software architecture description
+## File acquisition principle
+### Get the music file from the site cache file
 
-#### Installation
+## Instructions
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 1. Search for the music you want
+### 2. Download it
 
-#### Instructions
+## Contribute
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 1. Gitee Warehouse
+### 2.  kuwo.cn
+### 3.  kugou.cn
+### 4.  music.163.com
+### 5.  Microsoft Windows10
+### 6.  Microsoft Edge
+### 7.  DevTools issue
+### 8. All the people who give music suggestions to the author in the comments section
 
-#### Contribution
+## What if I can't find the music I want?
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+### Leave a comment in the comments section and the author will try to add the song within 7 working days
