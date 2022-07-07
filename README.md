@@ -21,7 +21,9 @@
 ### 6.  Microsoft Edge
 ### 7.  DevTools issue
 ### 8.  所有在评论区给作者提供音乐建议的人
-### 9.  英文原版UNDERTALE
+### 9.  音乐提供者：藏在地窖里的神————https://gitee.com/threeBodyDarkForest
+### 10. idm（INTERNET DOWNLOAD MANAGER ）下载器及其浏览器插件
+
 
 ## 没有找到我想要的音乐怎么办？
 
